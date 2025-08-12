@@ -12,14 +12,68 @@
 
 ---
 
-## 🛠 Tech Stack  
-**Languages:** Python, R Programming  
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-**Web:** Flask, Streamlit, HTML, CSS  
-**Tools:** Git, VS Code, Jupyter Notebook, Google Colab  
-**Databases:** MySQL  
+## 🛠️ My Tech Toolbox
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" /><br>
+      <b>R</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /><br>
+      <b>TensorFlow</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" /><br>
+      <b>PyTorch</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /><br>
+      <b>Flask</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>
+      <b>MySQL</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Tools I Love Working With
+
+- **Programming Languages:** Python, R  
+- **Deep Learning Frameworks:** TensorFlow, PyTorch  
+- **Web Framework:** Flask  
+- **Database:** MySQL  
+- **ML & Data Science:** OpenCV, Scikit-learn, Streamlit  
+- **Development Environments:** VS Code, Jupyter, Google Colab  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=5C3EE8&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%7C+ML+%7C+Data+Science;Always+Learning+New+Tech+%F0%9F%A5%AA;Let%27s+Build+Something+Amazing+Together!+%F0%9F%94%A5" />
+</p>
 
 ## 📌 Featured Projects  
 
