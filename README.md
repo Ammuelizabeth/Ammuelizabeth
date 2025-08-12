@@ -111,4 +111,7 @@
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+<p align="center">
+  <b>⭐ If you appreciate my work, please consider starring my repositories!</b><br>
+  <i>Let’s build intelligent solutions together 🚀</i>
+</p> 
