@@ -7,7 +7,7 @@
 🎓 Final-year **B.Tech in AI & Data Science** student passionate about applying AI to solve real-world problems.  
 💡 Interests in **Deep Learning, Machine Learning, Computer Vision, Generative AI, and Data Analytics**.  
 🔭 Currently working on: **Deepfake Image Detection using MobileNetV3-Large**.  
-🌱 Learning **MLOps, Advanced Neural Networks, and Research Paper Writing (IEEE format)**.  
+🌱 Learning **MLOps, Advanced Neural Networks, and Research Paper Writing **.  
 📄 Check out my projects below and connect with me!  
 
 ---
@@ -44,7 +44,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ammu-elizabeth-alexander" target="_blank">
+  <a href="https://www.linkedin.com/in/ammu-elizabeth-alexander-6bb96827b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ammuelizabethalexander@gmail.com">
