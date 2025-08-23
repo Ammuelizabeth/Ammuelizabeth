@@ -7,7 +7,7 @@
 🎓 Final-year **B.Tech in AI & Data Science** student passionate about applying AI to solve real-world problems.  
 💡 Interests in **Deep Learning, Machine Learning, Computer Vision, Generative AI, and Data Analytics**.  
 🔭 Currently working on: **Deepfake Image Detection using MobileNetV3-Large**.  
-🌱 Learning **MLOps, Advanced Neural Networks, and Research Paper Writing **.  
+🌱 Learning **MLOps, Advanced Neural Networks, and Research Paper Writing**.  
 📄 Check out my projects below and connect with me!  
 
 ---
