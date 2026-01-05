@@ -1,49 +1,65 @@
+<h1 align="center">Hi 👋, I'm Ammu Elizabeth Alexander</h1>
+<h3 align="center">AI / Machine Learning Enthusiast • Research-Driven Developer</h3>
 
-# 👋 Hi, I’m Ammu Elizabeth Alexander
-
-🎓 **AI / Machine Learning Enthusiast | Research-Driven Developer**  
-🔍 Interested in **Computer Vision, Generative AI, and Data-Driven Systems**  
-📊 Building practical ML systems with a strong academic foundation  
+<p align="center">
+  <em>Computer Vision • Generative AI • Trustworthy & Ethical AI</em>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I’m an AI/ML practitioner who enjoys turning **research ideas into working systems**.  
-My work spans **image forensics, mental health AI, data analytics, and intelligent systems**, with a focus on clean experimentation and reproducibility.
+I’m an AI/ML practitioner passionate about transforming **research ideas into real-world intelligent systems**.  
+My work blends **deep learning, image forensics, and human-centric AI**, with a strong focus on **clarity, reproducibility, and impact**.
 
-- 🧠 Strong interest in **Deep Learning & Applied AI**
-- 📄 Preparing projects for **IEEE-style publications**
+- 🧠 Exploring **Deep Learning & Applied AI**
+- 🔬 Designing systems aligned with **IEEE-style research**
 - 🛠️ Building **end-to-end ML pipelines** (data → model → UI)
-- 💡 Clarity-focused coding and model design
+- ✨ Clean code, meaningful experiments, honest evaluation
 
 ---
 
-## 🔬 Key Projects
+## 🚨 Featured Project
 
-### 🖼️ GAN Image Detection System
-- MobileNetV3-based classifier for GAN-generated image detection  
-- Integrated **RetinaFace** for robust face localization  
-- **Streamlit** frontend for real-time image uploads  
+### 🔍 **DeepReveal** — AI-Based Image Forgery Detection
 
- 
+**DeepReveal** is a research-oriented deep learning framework for **detecting manipulated and GAN-generated images** using digital image forensics.
+
+✨ **Highlights**
+- 🧩 CNN-based architecture for **deepfake & GAN detection**
+- 🖼️ **Error Level Analysis (ELA)** & **High-Pass Filtering (HPF)** to amplify tampering artifacts
+- 🙂 **Face-aware analysis** using integrated face detection
+- 📊 **Real vs Fake classification** with confidence scoring
+- 🌐 Interactive **Streamlit web interface**
+- 📈 Designed for **dataset scalability & research extensibility**
+
+📌 *Applications:* Digital forensics • Media authentication • Misinformation detection
+
+---
+
+## 🔬 Other Projects
+
+- 🖼️ **GAN Image Detection System**  
+  MobileNetV3-based model with RetinaFace integration and real-time Streamlit inference
+
+
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
+### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Machine Learning & DL
+### 🤖 Machine Learning & DL
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -54,26 +70,28 @@ My work spans **image forensics, mental health AI, data analytics, and intellige
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammuelizabeth&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammuelizabeth&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
 
-## 📈 What I Care About
+## 🎯 What I Care About
 
-- ✔️ Model interpretability & evaluation  
-- ✔️ High-quality datasets & preprocessing  
-- ✔️ Reproducible ML experiments  
-- ✔️ Clean documentation & technical writing  
-
----
-
-## 📫 Let’s Connect
-
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📧 Email: your.email@example.com  
+- 🔍 Trustworthy & explainable AI  
+- 📊 High-quality datasets & preprocessing  
+- 🔁 Reproducible ML experiments  
+- 📝 Clear documentation & technical writing  
 
 ---
 
-⭐ *If you find my work useful, consider starring a repository — it helps more than you think!*
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="https://github.com/Ammuelizabeth">💻 GitHub</a> •
+  <a href="mailto:ammuelizabethalexander@gmail.com">📧 Email</a>
+</p>
+
+---
+
+⭐ <em>If you find my work useful, consider starring a repository — it truly helps!</em>
