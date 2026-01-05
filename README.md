@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammu Elizabeth Alexander</h1>
-<h3 align="center">AI / Machine Learning Enthusiast • Research-Driven Developer</h3>
+<h3 align="center">AI & Machine Learning Enthusiast • Research-Driven Developer</h3>
 
 <p align="center">
   <em>Computer Vision • Generative AI • Trustworthy & Ethical AI</em>
