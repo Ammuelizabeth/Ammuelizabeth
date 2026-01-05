@@ -19,28 +19,31 @@ My work blends **deep learning, image forensics, and human-centric AI**, with a 
 
 ---
 
+
 ## 🚨 Featured Project
 
-### 🔍 **DeepReveal** — AI-Based Image Forgery Detection
+### 🔍 **DeepReveal** — Pixel-Level AI Image Manipulation Detection
 
-**DeepReveal** is a research-oriented deep learning framework for **detecting manipulated and GAN-generated images** using digital image forensics.
+**DeepReveal** is a research-oriented deep learning framework designed to **identify pixel-wise AI-generated or manipulated regions within images**, rather than only giving a global label.
 
-✨ **Highlights**
-- 🧩 CNN-based architecture for **deepfake & GAN detection**
-- 🖼️ **Error Level Analysis (ELA)** & **High-Pass Filtering (HPF)** to amplify tampering artifacts
-- 🙂 **Face-aware analysis** using integrated face detection
-- 📊 **Real vs Fake classification** with confidence scoring
-- 🌐 Interactive **Streamlit web interface**
-- 📈 Designed for **dataset scalability & research extensibility**
+✨ **What makes DeepReveal unique**
+- 🧩 **Pixel-level localization** of AI-generated or tampered content
+- 🖼️ Combines **Error Level Analysis (ELA)** and **High-Pass Filtering (HPF)** to expose subtle manipulation artifacts
+- 🙂 **Face-aware region analysis** using integrated face detection for focused inspection
+- 🎯 Highlights *where* manipulation occurs, not just *whether* it exists
+- 🌐 Interactive **Streamlit-based interface** for visual inspection
+- 📈 Built with **research extensibility and dataset scalability** in mind
 
-📌 *Applications:* Digital forensics • Media authentication • Misinformation detection
+📌 *Applications:*  
+Digital image forensics • Deepfake localization • Media authentication • Misinformation analysis
 
 ---
 
 ## 🔬 Other Projects
 
-- 🖼️ **GAN Image Detection System**  
-  MobileNetV3-based model with RetinaFace integration and real-time Streamlit inference
+- 🖼️ **Deepfake Image Detection System**  
+  A CNN-based classification system that determines **whether an image is real or fake**.  
+  Built using **MobileNetV3** and deployed with a **Streamlit web interface** for real-time inference.
 
 
 
@@ -89,8 +92,10 @@ My work blends **deep learning, image forensics, and human-centric AI**, with a 
 
 <p align="left">
   <a href="https://github.com/Ammuelizabeth">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/ammu-elizabeth-alexander/">💼 LinkedIn</a> •
   <a href="mailto:ammuelizabethalexander@gmail.com">📧 Email</a>
 </p>
+
 
 ---
 
