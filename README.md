@@ -28,7 +28,7 @@ My work blends **deep learning, image forensics, and human-centric AI**, with a 
 
 ## 🚨 Featured Project
 
-### 🔍 **DeepReveal** — Pixel-Level AI Image Manipulation Detection
+### 🔍 **[**DeepReveal** — Pixel-Level AI Image Manipulation Detection](https://github.com/Ammuelizabeth/DeepReveal)** 
 
 **DeepReveal** is a research-oriented deep learning framework designed to **identify pixel-wise AI-generated or manipulated regions within images**, rather than only giving a global label.
 
@@ -46,8 +46,7 @@ Digital image forensics • Deepfake localization • Media authentication • M
 ---
 
 ## 🔬 Other Projects
-
-- 🖼️ **Deepfake Image Detection System**:  **[Deepfake Detection Web Application](https://github.com/Ammuelizabeth/Deepfake-Detection-Web-Application)**  
+🖼️  **[Deepfake Detection Web Application](https://github.com/Ammuelizabeth/Deepfake-Detection-Web-Application)**  
 > MobileNetV3-Large + multi-feature extraction for detecting GAN-generated images, deployed with Streamlit.
   A CNN-based classification system that determines **whether an image is real or fake**.  
   Built using **MobileNetV3** and deployed with a **Streamlit web interface** for real-time inference.
@@ -58,9 +57,8 @@ Digital image forensics • Deepfake localization • Media authentication • M
 
 ## 🧰 Tech Stack
 
-### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🤖 Machine Learning & DL
