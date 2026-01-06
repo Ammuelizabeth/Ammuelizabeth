@@ -18,6 +18,12 @@ My work blends **deep learning, image forensics, and human-centric AI**, with a 
 - ✨ Clean code, meaningful experiments, honest evaluation
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=5C3EE8&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%7C+ML+%7C+Data+Science;Always+Learning+New+Tech+%F0%9F%A5%AA;Let%27s+Build+Something+Amazing+Together!+%F0%9F%94%A5" />
+</p>
+
+---
+
 
 
 ## 🚨 Featured Project
@@ -41,7 +47,8 @@ Digital image forensics • Deepfake localization • Media authentication • M
 
 ## 🔬 Other Projects
 
-- 🖼️ **Deepfake Image Detection System**  
+- 🖼️ **Deepfake Image Detection System**:  **[Deepfake Detection Web Application](https://github.com/Ammuelizabeth/Deepfake-Detection-Web-Application)**  
+> MobileNetV3-Large + multi-feature extraction for detecting GAN-generated images, deployed with Streamlit.
   A CNN-based classification system that determines **whether an image is real or fake**.  
   Built using **MobileNetV3** and deployed with a **Streamlit web interface** for real-time inference.
 
@@ -70,11 +77,15 @@ Digital image forensics • Deepfake localization • Media authentication • M
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammuelizabeth&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammuelizabeth&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammuelizabeth&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammuelizabeth&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ammuelizabeth&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
