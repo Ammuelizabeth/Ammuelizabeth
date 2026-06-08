@@ -34,10 +34,9 @@ My work blends **deep learning, image forensics, and human-centric AI**, with a 
 
 ✨ **What makes DeepReveal unique**
 - 🧩 **Pixel-level localization** of AI-generated or tampered content
-- 🖼️ Combines **Error Level Analysis (ELA)** and **High-Pass Filtering (HPF)** to expose subtle manipulation artifacts
 - 🙂 **Face-aware region analysis** using integrated face detection for focused inspection
 - 🎯 Highlights *where* manipulation occurs, not just *whether* it exists
-- 🌐 Interactive **Streamlit-based interface** for visual inspection
+- 🌐 Interactive **Flask-based interface** for visual inspection
 - 📈 Built with **research extensibility and dataset scalability** in mind
 
 📌 *Applications:*  
