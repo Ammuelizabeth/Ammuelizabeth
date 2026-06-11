@@ -61,7 +61,7 @@ I enjoy transforming research concepts into practical, deployable AI solutions w
 
 A deep learning-based image forensics framework that detects and localizes AI-generated or manipulated regions within images using semantic segmentation. Unlike traditional real/fake classifiers, DeepReveal highlights exactly where modifications occur, improving transparency and interpretability.
 
-**Tech Stack:** Python • TensorFlow • U-Net • OpenCV • Flask
+**Tech Stack:** Python • PyTorch • U-Net • OpenCV • Flask
 
 **Applications:** Digital Forensics • Media Authentication • Deepfake Localization • Content Verification
 
