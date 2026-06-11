@@ -30,14 +30,28 @@ My work blends **deep learning, image forensics, and human-centric AI**, with a 
 
 ### 🔍 **[**DeepReveal** — Pixel-Level AI Image Manipulation Detection](https://github.com/Ammuelizabeth/DeepReveal)** 
 
-**DeepReveal** is a research-oriented deep learning framework designed to **identify pixel-wise AI-generated or manipulated regions within images**, rather than only giving a global label.
+**DeepReveal** is a deep learning-based image forensics framework designed to detect and localize AI-generated or manipulated regions within digital images at the pixel level. Unlike traditional approaches that provide only a binary "real or fake" prediction, DeepReveal identifies and highlights the exact regions where manipulations occur, improving transparency and interpretability .
 
-✨ **What makes DeepReveal unique**
-- 🧩 **Pixel-level localization** of AI-generated or tampered content
-- 🙂 **Face-aware region analysis** using integrated face detection for focused inspection
-- 🎯 Highlights *where* manipulation occurs, not just *whether* it exists
-- 🌐 Interactive **Flask-based interface** for visual inspection
-- 📈 Built with **research extensibility and dataset scalability** in mind
+## ✨ Features
+
+- 🧩 **Pixel-Level Manipulation Localization**  
+  Detects and localizes manipulated regions using semantic segmentation techniques.
+
+- 🎯 **Tampering Mask Generation**  
+  Produces segmentation masks that visually highlight altered areas within an image.
+
+- 🧠 **U-Net Based Architecture**  
+  Utilizes a U-Net deep learning model for fine-grained forgery detection and localization.
+
+- 📊 **Beyond Binary Classification**  
+  Provides detailed pixel-wise analysis instead of limiting results to a simple real/fake prediction.
+
+- 🌐 **Interactive Web Application**  
+  Allows users to upload images and receive real-time analysis with visualized detection results.
+
+- 🔍 **Interpretable Results**  
+  Enhances trust and transparency by providing visual evidence of detected manipulations.
+
 
 📌 *Applications:*  
 Digital image forensics • Deepfake localization • Media authentication • Misinformation analysis
