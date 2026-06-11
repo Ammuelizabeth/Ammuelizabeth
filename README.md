@@ -55,7 +55,7 @@ I enjoy transforming research concepts into practical, deployable AI solutions w
 | Project | Description |
 |----------|------------|
 | 🔍 **[DeepReveal](https://github.com/Ammuelizabeth/DeepReveal)** | Pixel-level AI image manipulation detection and localization using U-Net segmentation |
-| 🛰️ **Cross-Seasonal Image Matching** | Robust matching of satellite and drone imagery across seasonal variations using SuperPoint feature extraction and geometric verification |
+| 🛰️ **[Cross-Seasonal Image Matching](https://github.com/Ammuelizabeth/cross-season-image-matching)** | Robust matching of satellite and drone imagery across seasonal variations using SuperPoint feature extraction and geometric verification |
 | 🖼️ **[Deepfake Detection Web Application](https://github.com/Ammuelizabeth/Deepfake-Detection-Web-Application)** | MobileNetV3-Large based system for detecting GAN-generated images with a Streamlit interface |
 ### 🔍 DeepReveal
 
