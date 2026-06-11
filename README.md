@@ -78,7 +78,7 @@ A computer vision pipeline for matching satellite and drone imagery across diffe
 
 A deep learning-based image classification system for detecting GAN-generated face images.
 
-**Tech Stack:** Python • TensorFlow • MobileNetV3-Large • Streamlit • OpenCV
+**Tech Stack:** Python • PyTorch • MobileNetV3-Large • Streamlit • OpenCV
 
 **Applications:** AI-Generated Image Detection • Content Verification • Digital Media Analysis
 
